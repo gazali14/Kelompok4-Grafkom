@@ -62,7 +62,7 @@ else:
         print('Titik yang di lewati yaitu (',x-1,',',kordinatY,')')
         titikX.append(x-1)
         titikY.append(kordinatY)
-        i+=1
+      i+=1
     plt.plot(titikX,titikY)
     plt.scatter(titikX,titikY)
     plt.grid()
