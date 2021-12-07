@@ -22,11 +22,11 @@ if x1 == x2:
   titikY = []
   while i < y2:
     if y1 == y2:
-      print('Garis yang dilewati yaitu', x,',', y )
+      print('Titik yang dilewati yaitu', x,',', y )
       titikX.append(x)
       titikY.append(y)
     else:
-      print('Garis yang dilewati yaitu', x,',', y+i )
+      print('Titik yang dilewati yaitu', x,',', y+i )
       titikX.append(x)
       titikY.append(y+i)
     i+=1
