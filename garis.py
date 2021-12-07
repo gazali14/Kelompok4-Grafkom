@@ -16,3 +16,19 @@ x = x1
 y = y1
 
 i = 1
+
+if x1 == x2:
+  titikX = []
+  titikY = []
+  while i < y2:
+    if y1 == y2:
+      print('Garis yang dilewati yaitu', x,',', y )
+      titikX.append(x)
+      titikY.append(y)
+    else:
+      print('Garis yang dilewati yaitu', x,',', y+i )
+      titikX.append(x)
+      titikY.append(y+i)
+    i+=1
+  plt.plot(titikX,titikY)
+  plt.show()
