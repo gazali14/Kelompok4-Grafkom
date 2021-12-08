@@ -1,5 +1,5 @@
 # Kelompok4-Grafkom
-Nama Anggota kelompok 4 Grafika Komputer 
+Nama Anggota kelompok 4 Grafika Komputer :
 1. Alif Anugrah (E1E119045)
 2. Nurul Hajra Hadijah (E1E119008)
 3. Aldriani Adhyaksa (E1E120003)
