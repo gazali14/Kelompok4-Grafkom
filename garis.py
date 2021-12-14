@@ -99,3 +99,5 @@ else:
     plt.scatter(titikX,titikY)
     plt.grid()
     plt.show()
+
+#contoh ubah lagi nah
